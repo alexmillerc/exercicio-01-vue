@@ -1,4 +1,4 @@
-# exercicio-01-vue
+# Exercicio-01 - Alex Miller
 
 ## Project setup
 ```
