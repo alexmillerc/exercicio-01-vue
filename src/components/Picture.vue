@@ -1,6 +1,6 @@
 <template>
     <picture>
-       <img v-bind:src="require('./../imagens/' + link + '.png')" v-bind:alt="pic">
+       <img v-bind:src="require('./../images/' + link + '.png')" v-bind:alt="pic">
     </picture>
 </template>
 
